@@ -9,4 +9,9 @@ and provide a link to a website that provides additional information
 about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
+“Sometimes you just have to put on lip gloss and pretend to be psyched.” -Mindy Kaling
+
+[More Mindy Quotes](https://www.goodreads.com/author/quotes/194416.Mindy_Kaling)
+
+
 See `complete` branch for an example.
